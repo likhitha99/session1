@@ -3,3 +3,4 @@ Another branch
 Edited
 
 Branch1 edit
+Branch2 edit
